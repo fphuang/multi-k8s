@@ -17,7 +17,7 @@ function App() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            React on Kubernets
+            React - Kubernets testing
           </a>
           <Link to="/">Home</Link>
           <Link to="/otherpage">Other Page</Link>
